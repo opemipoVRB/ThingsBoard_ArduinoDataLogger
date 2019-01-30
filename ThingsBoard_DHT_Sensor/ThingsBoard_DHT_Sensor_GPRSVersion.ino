@@ -40,7 +40,7 @@ $$...........................................................................$$
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$***************************************************************************$$
 $$ ThingsBoard_DHT_Sensor_GPRSVersion.ino Created by  Durodola Opemipo 2017  $$
-$$  	  aka Emmanuel Caster @vrb_vectorian                                   $$
+$$  	  aka Emmanuel Caster @vrb_vectorian                                 $$
 $$            Personal Email : <opemipodurodola@gmail.com>                   $$
 $$                 Telephone Number: +2348182104309                          $$
 $$***************************************************************************$$
